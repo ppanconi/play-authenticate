@@ -2,9 +2,9 @@ organization := "com.feth"
 
 name := "play-authenticate"
 
-scalaVersion := "2.11.5"
+scalaVersion := "2.11.6"
 
-crossScalaVersions := Seq("2.10.4", "2.11.5")
+//	crossScalaVersions := Seq("2.10.4", "2.11.5")
 
 libraryDependencies ++= Seq(
   "org.apache.httpcomponents" % "httpclient" % "4.3.6",
